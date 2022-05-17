@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1652391068,
-        "narHash": "sha256-h+x2vCdEom9f0+j6XlUcsIKAVhcGS8cHSeEijFWQPso=",
+        "lastModified": 1652791488,
+        "narHash": "sha256-++gxHOjoQdfYkibUiG32UDubfiCjSy4mPQS416gggmM=",
         "owner": "nim-nix-pkgs",
         "repo": "github-enthus1ast-nimisprivateip",
-        "rev": "ef1acd692fd2f2987e7fec52ec2325805d4d4279",
+        "rev": "05974a48b812e5279939b268bbb160f855c55eb9",
         "type": "github"
       },
       "original": {
