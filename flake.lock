@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1653696366,
-        "narHash": "sha256-9S/uFFmWsiFq51LpNW5bnoqCwGjbRAZCZplWgX/aVGc=",
+        "lastModified": 1653701899,
+        "narHash": "sha256-LAsNxSGDTzYiCzvrFV4LsDRIVC6gtQBhLMVWSHsE7m4=",
         "owner": "nim-nix-pkgs",
         "repo": "github-enthus1ast-nimisprivateip",
-        "rev": "c358518b718f1b5b156b10ba3629c287053b3658",
+        "rev": "066671e3a92a909005a12274603c08c74162196d",
         "type": "github"
       },
       "original": {
@@ -50,8 +50,9 @@
     },
     "nixpkgs": {
       "locked": {
-        "narHash": "sha256-7sWpWRO0IsBP5jm9qCrpuzDkWC7UAghiCmZZ+1uqHKo=",
-        "path": "/nix/store/q2jrkx5a3z6yxzbfai0kxpnqki80jm3l-source",
+        "lastModified": 0,
+        "narHash": "sha256-BBeCZwZImtjP3oYy4WogkQYy5OxNyfNciVSc1AfZgLQ=",
+        "path": "/nix/store/z8fi1f38y14lmsyhnph1l98qr3r9x7wr-source",
         "type": "path"
       },
       "original": {
